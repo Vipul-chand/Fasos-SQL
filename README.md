@@ -35,5 +35,4 @@
 ### To achieve desired output following SQL functions were used. 
 Aggregate functions, Joins, Case statement, Subqueries, Window functions, Temporary Tables, Common Table Expressions (CTE).
 
-![image](https://user-images.githubusercontent.com/119819006/223269481-ce959155-b012-455a-aa89-9c30dd692fa6.png)
 
