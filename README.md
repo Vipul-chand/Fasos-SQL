@@ -32,7 +32,7 @@
 *	What is the difference between the highest and shortest delivery times for all orders?
 *	What is the successful delivery percentage for each driver?
 
-### To achieve desired output following SQL functions were used. 
+#### To achieve desired output following SQL functions were used. 
 Aggregate functions, Joins, Case statement, Subqueries, Window functions, Temporary Tables, Common Table Expressions (CTE).
 
 
